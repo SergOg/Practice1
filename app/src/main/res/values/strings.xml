@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practice1</string>
+    <string name="button">Кнопочка</string>
+    <string name="hint1">Здесь вводят текст</string>
+    <string name="text1">Введите текст</string>
+    <string name="checkbox">CheckBox</string>
 </resources>

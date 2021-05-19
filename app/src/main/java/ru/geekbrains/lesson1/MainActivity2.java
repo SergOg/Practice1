@@ -1,5 +1,7 @@
 package ru.geekbrains.lesson1;
-
+//2. Создать ещё один макет (если не получается, то проект) с несколькими EditText, где
+//использовать атрибут inputType: text, textPersonName, phone, number, textPassword,
+//textEmailAddress и другие значения.
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

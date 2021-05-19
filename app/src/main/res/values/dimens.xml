@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ButtonTextSixe">33sp</dimen>
+    <dimen name="TextViewSize">75sp</dimen>
+    <dimen name="PaddingSize">30dp</dimen>
+</resources>

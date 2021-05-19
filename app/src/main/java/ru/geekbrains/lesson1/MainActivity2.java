@@ -14,3 +14,7 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
     }
 }
+//4. * Разобраться, что такое параметр ems:
+//Данный атрибут используется для определения значения ширины TextView в единицах измерения EM.
+//При этом EM это единица измерения в Typography (Типография), его значением является ширина буквы "M".
+//Таким образом android:ems="5" - значит настроить ширину для TextView в 5 раз больше ширины буквы "M".
